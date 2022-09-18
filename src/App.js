@@ -143,7 +143,7 @@ function App() {
 
           <div className="weather-item">
             
-            <input className='search' value={location} onChange={event => setLocation(event.target.value)} onKeyPress={searchLocation} placeholder='Search your location!' type='text'></input>
+            
           </div>
         
           
