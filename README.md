@@ -3,7 +3,7 @@ Weather forecast app built with #ReactJS
 
 Initial release: Search only
 
-![upper](https://github.com/josippr/React-weather-app/src/assets/upper.PMG?raw=true)
+![upper](https://github.com/josippr/React-weather-app/src/assets/upper.PNG?raw=true)
 
 ----------------------------------------
 
